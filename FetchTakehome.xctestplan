@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "79964754-540F-4B58-BC40-8269532FC853",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:FetchTakehome.xcodeproj",
+      "identifier" : "289DB5542D8764E0008C9B67",
+      "name" : "FetchTakehome"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:FetchTakehome.xcodeproj",
+        "identifier" : "289DB5642D8764E2008C9B67",
+        "name" : "FetchTakehomeTests"
+      }
+    }
+  ],
+  "version" : 1
+}
